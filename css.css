@@ -1,0 +1,17 @@
+h1{text-align: center;
+font-size: 35px;
+background-color: saddlebrown;
+color: aliceblue;
+border: black;
+}
+body{background-color: green;
+border: rosybrown;
+border-radius: initial;
+}
+.large{color: burlywood;
+resize: horizontal;
+background-color: brown;
+border-radius: initial;
+border: 25px;
+border: black;
+}

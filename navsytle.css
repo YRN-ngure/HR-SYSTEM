@@ -1,0 +1,208 @@
+ *{
+    padding: 0;
+    margin: 0;
+    font-family: KacstFarsi;
+
+    border-radius: 10px;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-color: purple;
+    background-size:cover;
+    background-position:center;
+}
+.navbar{
+    width: 55%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color:black ;
+    text-transform: uppercase;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: green;
+}
+.navbar ul li a:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+    background-color: white;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: 0;
+    position: relative;
+}
+.content h1{
+    font-family: C059;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+.content .cn{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.content .cn a{
+    text-decoration: none;
+    color: red;
+    position: page;
+}
+.content .par{
+    padding-left: 20px;
+    font-family:  sans-serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: black;
+
+}
+.cn:hover{
+    background-color: grey;
+}
+.content span{
+  color: yellow;
+}
+.form{
+    width: 350px;
+    height: 300px;
+    background-color:white;
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 20px;
+    color: black;
+    background-color:aqua;
+    left: 650px;
+    font-size: 20px;
+    padding: 5px 5px;
+    top: 20px;
+}
+.form a{
+    font-size: 20px;
+}
+.form input{
+    font-size: 20px;
+    width: 90%;
+    color: black;
+    height: 20px;
+    border: none;
+    border-bottom:1px solid black;
+    background: transparent;
+    margin-top: 2px;
+}
+.form h2{
+    font-weight: bolder;
+    color:yellow;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.form input::placeholder{
+    text-align: center;
+    padding: 10px;
+}
+ .btn{
+    background-color: white;
+    font-size: 5px;
+    left: 3px;
+    width: 250px;
+    left: 10px;
+    height: 40px;
+    justify-items: center;
+    width: 100%;
+}
+.btn:hover{
+    background-color: grey;
+}
+.form .link{
+    text-align: center;
+    font-family: SansSerif;
+}
+.form .sign{
+    padding-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
